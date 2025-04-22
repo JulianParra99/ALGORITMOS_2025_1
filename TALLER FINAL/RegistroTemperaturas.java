@@ -3,6 +3,10 @@ Documentacion del archivo
 *@version 1.0
 *@ autor Adrian Moreno Medina
 
+El siguiente desarrollo es para potenciar los conocimientos y las aplicaciones de las diferentes tematicas vistas en clase del curso de algortimos en el lenguaje Java
+se empleo el uso del condicional "For" para generar las distintas operaciones de datos y los condicionales pára la realizacion de las operaciones recorriendo los datos del
+ciclo, finalemnte se imprimen los datos resultantes con las variables creadas incicialmente para establecer los distintos tipos de resultados a obtener.
+
 */
 import java.util.Scanner;
 
