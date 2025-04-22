@@ -1,3 +1,9 @@
+/*
+Documentacion del archivo
+*@version 1.0
+*@ autor Adrian Moreno Medina
+
+*/
 import java.util.Scanner;
 
 public class RegistroTemperaturas {
